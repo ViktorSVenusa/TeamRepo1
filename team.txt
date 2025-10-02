@@ -5,3 +5,5 @@ Kalin
 
 oshte neshto
 
+Oshte Oshte neshto(gei sum)
+
